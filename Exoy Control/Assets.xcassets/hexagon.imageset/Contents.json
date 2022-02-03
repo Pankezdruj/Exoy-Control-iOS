@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "infinityobject.png",
+      "filename" : "hexagon.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "infinityobject@2x.png",
+      "filename" : "hexagon@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "infinityobject@3x.png",
+      "filename" : "hexagon@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

@@ -32,13 +32,13 @@ class Communication {
     var foundDevices: [[Any]] = [[]]
     
     func search() throws {
-        var i = 0
+        var i = 40
         let IP = getWiFiAddress()
         if (IP == nil) {
             throw Network.noWiFiConnection
         }
         
-        while i < 250 {
+        while i < 240 {
             if (ready) {
                 hostUDP = .init("192.168.\(IP!.split(separator: ".")[2]).\(i)")
                 connectToUDP(hostUDP, portUDP)

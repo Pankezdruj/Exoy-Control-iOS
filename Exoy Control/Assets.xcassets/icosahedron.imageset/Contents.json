@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "infinityobject.png",
+      "filename" : "icosahedron.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "infinityobject@2x.png",
+      "filename" : "icosahedron@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "infinityobject@3x.png",
+      "filename" : "icosahedron@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
